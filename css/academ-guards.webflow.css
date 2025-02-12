@@ -3038,4 +3038,11 @@ a {
   grid-area: span 1 / span 1 / span 1 / span 1;
 }
 
+.gallery-grid img {
+    width: 100%;
+    max-width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}
 
