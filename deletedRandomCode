@@ -1,0 +1,20 @@
+Deleted image
+
+</script>
+        </a>
+        <a href="#" id="w-node-_52ad7722-e5b2-6192-ee75-b4ddc2fca32c-fa734562" class="gallery-lightbox w-inline-block w-lightbox"><img src="images/Testimonial-7.jpg" loading="lazy" alt="" class="galery-img">
+          <script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial-7.jpg",
+      "fileName": "Testimonial-7.jpg",
+      "fileSize": 26140,
+      "height": 450,
+      "url": "images/Testimonial-7.jpg",
+      "width": 450,
+      "type": "image"
+    }
+  ],
+  "group": "Gallery"
+}
