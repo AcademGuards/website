@@ -3039,10 +3039,9 @@ a {
 }
 
 .gallery-grid img {
-    width: 100%;
-    max-width: 250px;
-    height: 250px;
-    object-fit: cover;
-    border-radius: 10px;
+    width: 250px; /* Ensures uniform width */
+    height: 250px; /* Ensures uniform height */
+    object-fit: cover; /* Prevents distortion while filling the box */
+    border-radius: 10px; /* Optional: Adds rounded corners */
 }
 
